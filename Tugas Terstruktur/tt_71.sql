@@ -1,0 +1,86 @@
+-- phpMyAdmin SQL Dump
+-- version 5.0.4
+-- https://www.phpmyadmin.net/
+--
+-- Host: 127.0.0.1
+-- Generation Time: Oct 08, 2021 at 04:15 AM
+-- Server version: 10.4.17-MariaDB
+-- PHP Version: 8.0.2
+
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+START TRANSACTION;
+SET time_zone = "+00:00";
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8mb4 */;
+
+--
+-- Database: `skd`
+--
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `tt_71`
+--
+
+CREATE TABLE `tt_71` (
+  `teks1` varchar(255) NOT NULL,
+  `teks2` varchar(255) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+--
+-- Dumping data for table `tt_71`
+--
+
+INSERT INTO `tt_71` (`teks1`, `teks2`) VALUES
+('958dced4b9c44fd6976ff9d37bb21ddd', '1d6cfb76c02c07af2ffaeb285eef22a8'),
+('a8f5f167f44f4964e6c998dee827110c', 'adbf5a778175ee757c34d0eba4e932bc'),
+('d41d8cd98f00b204e9800998ecf8427e', 'd41d8cd98f00b204e9800998ecf8427e'),
+('d41d8cd98f00b204e9800998ecf8427e', 'd41d8cd98f00b204e9800998ecf8427e'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('925cc8d2953eba624b2bfedf91a91613', 'c20ad4d76fe97759aa27a0c99bff6710'),
+('19ca1437f818fcbaeadf0ce00f79c5ae', '26339a4422e0ced23e4efb48145d6d52'),
+('19ca1437f818fcbaeadf0ce00f79c5ae', '26339a4422e0ced23e4efb48145d6d52');
+COMMIT;
+
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
